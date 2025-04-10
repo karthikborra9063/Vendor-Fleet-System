@@ -5,14 +5,14 @@ At its core, the system facilitates robust user authentication, driver and vehic
 
 Key features of the system include:
 
-Secure login and session management using token-based authentication.
+-Secure login and session management using token-based authentication.
 
-A clean and intuitive interface for adding, editing, and viewing driver and cab information.
+-A clean and intuitive interface for adding and viewing driver and cab information.
 
-A vendor-specific dashboard with real-time statistics and insights into fleet performance.
+-A vendor-specific dashboard with real-time statistics and insights into fleet performance.
 
-Permission-based access control to safeguard data and maintain structured workflows.
+-Permission-based access control to safeguard data and maintain structured workflows.
 
-Automatic tracking of document expiry for drivers and cabs, with flagging mechanisms.
+-Automatic tracking of document expiry for drivers and cabs, with flagging mechanisms.
 
-Filtering and search functionalities for efficient data management.
+-Filtering and search functionalities for efficient data management.

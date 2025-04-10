@@ -14,3 +14,15 @@ This project is a comprehensive full-stack web application designed to streamlin
 -Automatic tracking of document expiry for drivers and cabs, with flagging mechanisms.
 
 -Filtering and search functionalities for efficient data management.
+
+# Dashboard
+![Image](https://github.com/user-attachments/assets/9cdb2711-f58f-4dce-8b00-d4c02e50a68c)
+
+# Vendors
+![Image](https://github.com/user-attachments/assets/7f5a2317-5023-4ddd-b5a2-128b670017e5)
+
+# Drivers
+![Image](https://github.com/user-attachments/assets/9ed0eb06-ca04-44a3-ab67-e4ec99550501)
+
+# Cars
+![Image](https://github.com/user-attachments/assets/ddfbfb83-0787-4997-9a58-45d9ad411e22)
